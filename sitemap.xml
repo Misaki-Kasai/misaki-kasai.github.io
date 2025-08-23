@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://misaki-kasai.github.io/paper/index.html</loc>
+    <loc>https://misaki-kasai.github.io/</loc>
     <lastmod>2025-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -25,19 +25,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://misaki-kasai.github.io/paper/f_lambda_b.svg</loc>
+    <loc>https://misaki-kasai.github.io/f_lambda_b.svg</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://misaki-kasai.github.io/paper/ggl_favicon_528.png</loc>
+    <loc>https://misaki-kasai.github.io/ggl_favicon_528.png</loc>
     <lastmod>2025-08-07</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://misaki-kasai.github.io/paper/f_lambda_tw_card.png</loc>
+    <loc>https://misaki-kasai.github.io/f_lambda_tw_card.png</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
